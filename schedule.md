@@ -1,5 +1,5 @@
 ### DM-UY 6053 B Ideation and Prototyping
-##### Fall 2019 • Katherine Bennett • Wednesday 6:30PM-9:20PM • 370 Jay Street, Room 310
+##### Fall 2019 • Katherine Bennett • Tuesday 6:30PM-9:20PM • 370 Jay Street, Room 310
 
 # Schedule
 **All dates and assignments are subject to change at the discretion of the professor! Git and slack are the official sources for all dates and assignments.**
@@ -37,7 +37,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Phase 1: Discovery / Inspiration / Process:</li>
      <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Read: Module 1 (including links) </a></li>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=mdqgrw"> Read Module 2 </a>
-    <li>Join Slack via this <a href="">link </a></li> 
+    <li>Join Slack via this <a href="https://join.slack.com/t/ipfa19bennett/shared_invite/enQtNzM2NTc1NDMwNzM4LTYwNTRiZDc1OGVlMzcwNTFhNmRlNTU2ODVlOWM1MjcyMzYwNDBiMjM1YWRhNDlmYTE5ZmU3YWYzNTVhODllOWU">link </a></li> 
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack <strong>channel "studentsites" </strong> </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
     <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a> and <a href = "https://www.amazon.com/Dont-Read-This-Book-Management/dp/9063694237/ref=sr_1_1?s=books&ie=UTF8&qid=1548300839&sr=1-1&keywords=Don%27t+Read+This+Book%3A+Time+Management+for+Creative+People+by+Donald+Roos"> Don't Read This Book: Time Management for Creative People by Donald Roos </a></li>
