@@ -1,5 +1,5 @@
 ### DM-UY 6053 B Ideation and Prototyping
-##### Fall 2019 • Katherine Bennett • Wednesday 6:30PM-9:20PM • 370 Jay Street, Room 310
+##### Fall 2019 • Katherine Bennett • Tuesday 6:30PM-9:20PM • 370 Jay Street, Room 310
 
 # Self Assessments
 
