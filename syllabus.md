@@ -23,7 +23,7 @@ Prerequisite: None
 
 #### [Maker Center Calendar](http://makerspace.engineering.nyu.edu/training/)
 
-#### [Slack workspace](https://ipfa19bennett.slack.com/)
+#### [Slack workspace](https://ipfa19bennett.slack.com/) The URL is: https://ipfa19bennett.slack.com/
 
 ### PROGRAM GOALS
 
