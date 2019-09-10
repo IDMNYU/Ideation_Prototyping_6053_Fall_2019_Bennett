@@ -3,7 +3,7 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Katherine Bennett • Katherine.Bennett@nyu.edu • Fall 2019 
-    Wednesday • 6:30PM-9:20PM • 370 Jay Street, RM 310 
+    Tuesday • 6:30PM-9:20PM • 370 Jay Street, RM 310 
 
 
 #### Course Management Site: 
@@ -255,7 +255,7 @@ See Appendix
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&p_sp19_assignmentname (i.e. kbennett_i&p_sp19_assignmentname.pdf)
 
-Post all homework assignments to your Process Site by Wednesday Noon. Period. Otherwise, they are considered late.
+Post all homework assignments to your Process Site by Monday Noon. Period. Otherwise, they are considered late.
 
 Context and discussion of each assignment is addressed within the assigned modules. Make sure to read each module, so as to complete each assignment appropriately.
 
@@ -269,7 +269,6 @@ Context and discussion of each assignment is addressed within the assigned modul
   * [Care Package](Care_Package.md)
   * [Input Map](input_map.md)
 * [Process Website](process_website.md)
-  ~* [Love Letter or Breakup Letter](letter.md)~
   * [Object Evolution Timeline](narrative_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
