@@ -11,23 +11,15 @@ You are charged with identifying a lost or struggling group, past or present, re
 
 ### Examples of Lost or Struggling Civilizations:
 
-Maya
-
-Angkor Empire
-
-Hittite Empire
-
-Rapa Nui civilization
-
-Ancestral Pueblo culture
-
-Indus Valley civilization
-
-Moche civilization
-
-Native American cultures 
-
-Lost Colony of Roanoke
+* Maya
+* Angkor Empire
+* Hittite Empire
+* Rapa Nui civilization
+* Ancestral Pueblo culture
+* Indus Valley civilization
+* Moche civilization
+* Native American cultures 
+* Lost Colony of Roanoke
 
 
 ##### Contemporary:
@@ -39,9 +31,8 @@ Lost Colony of Roanoke
 
 ### Assignment
 
-#### Part 1: Research your chosen group. 
-
-Answer the following questions through your research:
+#### Part 1
+#### Due October 8th.
 
 1. Research your chosen group. Answer the following questions through your research:
 
@@ -52,7 +43,7 @@ Answer the following questions through your research:
 * What is/was the religious history? How has it/did this affect things?
 * What are/were some of the highlights of this period/group? Struggles/low points? Challenges?
 
-2. Assemble this documentation and use words and images to create mood boards, word lists, mind maps, image boards, twine, etc. You must (at minimum) create: a mood board, image board(s), and word lists.
+2. Assemble this documentation and use words and images to create mood boards, word lists, mind maps, image boards, twine, etc. You must (at minimum) create: *a mood board, image board(s), and word lists*.
 
 3. Compile this research into an organized format. Begin by writing blurbs or short paragraphs. Print these out and cut them up into individual elements. Arrange them in the order they might be presented or discussed, structured as headings, subheadings, and content. How can one idea flow to another? Where you find gaps, develop the question that gap presents, then go back and do the research needed to fill those gaps.
 
@@ -62,9 +53,7 @@ Then create an outline of this presentation, titling each section and subsection
 
 4. From this outline, you will then craft a 5 page paper (12 pt font, 1.5 spaces, 1 inch margins all around).
 
-##### This paper is due October 8th.
-
-##### Deliverables also due in a separate document on October 8th: annotated bibliography with minimum 10 sources, moodboards, mind maps, word lists, images, text, mapping organization documentation, outline
+#### Deliverables: 5-8 page paper, annotated bibliography with minimum 10 sources, moodboards, mind maps, word lists, images, text, mapping organization documentation, outline
 
 
 #### Part 2
@@ -72,11 +61,9 @@ Then create an outline of this presentation, titling each section and subsection
 
 5. Explore “a day in the life” like for an adult female? Male? Children? Young Adults? Elderly?
 
-Ideate on each of these. Give yourself time to think deeply. Develop a thoughtful and insightful questionnaire after compiling the above research. Write out these questions, adding contextual information. 
+Ideate on each of these. Give yourself time to think deeply. Develop a thoughtful and insightful questionnaire after compiling the research from the paper. Write out these questions, adding contextual information. 
  
-Then, use these questions as creative launch points to develop adult personas - across a wide range of ages and social status of adults. You must create at least 4. Answer the questions and expand on them through the persona. Keep them abbreviated, but specific and logical for the era.
-
-After doing the above, then use these questions as creative launch points to develop adult personas - across a wide range of ages and social status of adults. You must create at least 5. Answer the questions and expand on them through the persona. Keep them abbreviated, but specific and logical for the era.
+Then, use these questions as creative launch points to develop adult personas - across a wide range of ages and social status of adults. You must create at least 4. Answer the questions and expand on them through the persona. Keep the personas abbreviated, but specific and logical for the era. (ie, Don't list every answer to every question.)
 
 Develop data app profiles for each adult. Make sure that they are specific and logical to the era, while telling a deeper narrative of the time and struggles/challenges.
 
@@ -86,10 +73,10 @@ Develop data app profiles for each adult. Make sure that they are specific and l
 Then, include in your mind map, in a different visual treatment (font, color, shape): What created these challenges? You should be informed by your research. This must be evident.
 
 
-#### deliverables: Questionaires, 5 (minimum) personas, 5 dating profiles, High-Fi mindmaps
+#### deliverables: Questionaires, 4 (minimum) personas, 4 dating profiles, High-Fi mindmaps
 
 
-#### Part 3
+### Part 3  TBA
 
 
 ### Resources:
