@@ -31,7 +31,7 @@ You are charged with identifying a lost or struggling group, past or present, re
 
 ### Assignment
 
-#### Part 1
+#### Part 1:
 #### Due October 8th.
 
 1. Research your chosen group. Answer the following questions through your research:
@@ -56,8 +56,8 @@ Then create an outline of this presentation, titling each section and subsection
 #### Deliverables: 5-8 page paper, annotated bibliography with minimum 10 sources, moodboards, mind maps, word lists, images, text, mapping organization documentation, outline
 
 
-#### Part 2
-##### Due October 22nd
+#### Part 2:
+#### Due October 22nd
 
 5. Explore “a day in the life” like for an adult female? Male? Children? Young Adults? Elderly?
 
