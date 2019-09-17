@@ -32,9 +32,7 @@ Lost Colony of Roanoke
 
 ##### Contemporary:
 Occupants of Palestinian Territories
-
 Syrians
-
 Migrant populations from Central America
 
 
