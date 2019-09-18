@@ -93,7 +93,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <ul>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod4/content/index.html#/?_k=vzf1cn"> Read Module 4 </a> </li>
-     <li><a href = "MidTermProject.md">Midterm: </a>Part 1: Research, Collect, Boards + Maps </li>
+     <li><a href = "MidTerm.md">Midterm: </a>Part 1: Choose & RESEARCH </li>
      <li>By next week, you should be half way through Show Your Work. If you aren't, get reading!</li>
     <li><a href= "constant_input_output.md.md"> Constant Input/Constant Ouput (if scheduled)</li> </a> <li> Post your sketchbook work to your Process site </li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
