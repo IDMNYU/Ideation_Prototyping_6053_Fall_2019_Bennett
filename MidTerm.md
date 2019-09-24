@@ -53,7 +53,7 @@ Then create an outline of this presentation, titling each section and subsection
 
 4. From this outline, you will then craft a 5 page paper (12 pt font, 1.5 spaces, 1 inch margins all around).
 
-#### Deliverables: 5-8 page paper, annotated bibliography with minimum 10 sources, moodboards, mind maps, word lists, images, text, mapping organization documentation, outline
+#### Deliverables: 5-8 page paper, annotated bibliography with minimum 10 sources, moodboards, mind maps, storyboards, word lists, images, text, mapping organization documentation, outline
 
 
 #### Part 2:

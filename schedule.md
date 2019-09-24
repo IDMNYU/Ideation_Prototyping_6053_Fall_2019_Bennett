@@ -99,7 +99,33 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
 </td>
 </tr>
-
+<tr>
+    <td valign="top">wk 4<p>Sept 26</p></td>
+    <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
+      <li> Moodboards, word lists, referencing, research types</li>
+       <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
+    <li>Review Homework</li>
+      </td>
+    <td valign="top">
+    <ul>
+    <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
+    <li><a href = "MidTermProject.md">MidTerm</a></li>
+    <li>Storyboard draft</li>
+    <li>revised moodboard</li>
+    <li>annotated bibliography (draft)</li>
+    <li> post addition word lists, mindmaps, etc to your process site </li>
+     <li>Watch</li>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
+        <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
+        <li>Write your response to the Metal Gear Solid documentaries. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website.</li>
+        </ul>
+    <li> Read - Show Your Work </li>
+    <li> Post your sketchbook work to your Process site </li>
+    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href="constant_input_output.md">constant input</a></li> </ul>
+</td>
+</tr>
 
 
 </table>
