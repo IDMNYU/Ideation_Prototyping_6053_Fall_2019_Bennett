@@ -109,7 +109,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
     <ul>
     <li> <a href = "http://teaching.polishedsolid.com/ip/mod5/content/index.html#/?_k=f1mton"> Read Module 5 </a> </li>
-    <li><a href = "MidTermProject.md">MidTerm</a></li>
+    <li><a href = "MidTerm.md">MidTerm</a></li>
     <li>Storyboard draft</li>
     <li>revised moodboard</li>
     <li>annotated bibliography (draft)</li>
@@ -126,6 +126,45 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href="constant_input_output.md">constant input/output</a></li> </ul>
 </td>
 </tr>
+<tr>
+  <tr>
+    <td valign="top">wk 5<p>Oct 8 </p></td>  
+    <td valign="top"> <strong> Phase 3: Design / Sketching / Mapping </strong> <br> <li>Review Homework</li>
+    <li>Follow up on <a href="recommended_journals_and_planners.md">Recommended Journals and Planners, Time Management and Productivity Systems</a> for Performance Anxiety</li>
+    <td>
+    <li><a href="MidTerm.md">
+    MidTerm Project: Continue phase 1:  </li>
+    <ul> <li>Storyboard refined draft</li>
+     <li> Outline of your paper</li>
+     <li> A draft of your paper </li>
+    <li>refined annotated bibliography </li>
+    <li> post addition word lists, mindmaps, moodboards etc to your process site </li> </ul>
+    <li><a href="constant_input_output.md">constant input/output</a></li>
+    <li> Read - Show Your Work </li>. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/Book_Reflections.md">Post your reflections </a> to your Process site.</ul>
+<li> Post your sketchbook work to your Process site </li><li><a href ="Time_Management_System.md">Time Management System</a></li>   
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 6 <p>Oct 15</p></td>    
+    <td valign="top"><strong> Phase 4: Prototyping </strong> <br> Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li> <a href="constant_input_output.md">constant input/output</a></li>
+    <li>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments. Post to your Process site with images, reflections and details. </li>
+   <li><a href="MidTerm.md">
+    MidTerm Project: Paper Due </li> 
+    <li> MidTerm Project:</li>
+    <ul>
+     <li>Questionaires</li>
+    <li>Dating Personas (Draft)</li>
+    <li>MindMap of Challenges (draft)</li> </ul>
+    <li> Fill out your <a href = "self_assessments.md">midterm self-assessment </a>regarding your progress through the entire course, thus far (not just the) MidTerm project alone. <a href = "https://github.com/IDMNYU/IdeationPrototypingSpring19-Bennett/blob/master/I%26P_final_self_assessment_2019.pdf"> Please refer to this document. </a></li>
+    <li> Finish - Show Your Work </li>
+    <li> Post your sketchbook work to your Process site </li>
+    </ul> <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
+    </td>
+</tr>
+
 
 
 </table>

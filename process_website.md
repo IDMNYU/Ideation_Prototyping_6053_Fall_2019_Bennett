@@ -12,7 +12,7 @@ Documentation of your creative process is an integral part of your creative work
 
 With this in mind, throughout the duration of the semester each student must carefully document all of the work created in this class, from brainstorming sessions with post-it notes to pages in a sketchbook to rough prototypes. You will post this documentation on your process website on a daily or weekly basis. 
 
-Your sited will be assessed weekly, in advance of our next class meeting. As such, work must be posted by *WEDNESDAY NOON* to count as that week's assignment submissions. Late work is counted as late and is assessed the following week. 
+Your sited will be assessed weekly, in advance of our next class meeting. As such, work must be posted by *Monday NOON* to count as that week's assignment submissions. Late work is counted as late and is assessed the following week. 
 
 You have several options, as to set up your site:
 

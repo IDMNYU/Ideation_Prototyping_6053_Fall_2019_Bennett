@@ -32,7 +32,7 @@ You are charged with identifying a lost or struggling group, past or present, re
 ### Assignment
 
 #### Part 1:
-#### Due October 8th.
+#### Due October 15th.
 
 1. Research your chosen group. Answer the following questions through your research:
 
@@ -52,6 +52,9 @@ You must include documentation and (10) different research citations.
 Then create an outline of this presentation, titling each section and subsection. 
 
 4. From this outline, you will then craft a 5 page paper (12 pt font, 1.5 spaces, 1 inch margins all around).
+
+You can take different approaches to the style of the paper. It does not need to be like a term paper. One approach is to think of yourself as a reporter, that has been sent to this place and era to do a series of reports on. Each of those reports would be a different section heading in your paper, and you would then take a first person perspective. Another approach would be a 3rd person point of view, such as a National Geographic special.
+
 
 #### Deliverables: 5-8 page paper, annotated bibliography with minimum 10 sources, moodboards, mind maps, storyboards, word lists, images, text, mapping organization documentation, outline
 
