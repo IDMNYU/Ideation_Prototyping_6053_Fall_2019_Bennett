@@ -66,7 +66,7 @@ You can take different approaches to the style of the paper. It does not need to
 
 Ideate on each of these. Give yourself time to think deeply. Develop a thoughtful and insightful questionnaire after compiling the research from the paper. Write out these questions, adding contextual information. 
  
-Then, use these questions as creative launch points to develop adult personas - across a wide range of ages and social status of adults. You must create at least 4. Answer the questions and expand on them through the persona. Keep the personas abbreviated, but specific and logical for the era. (ie, Don't list every answer to every question.)
+Then, use these questions as creative launch points to develop adult [personas](personas.md) - across a wide range of ages and social status of adults. You must create at least 4. Answer the questions and expand on them through the persona. Keep the personas abbreviated, but specific and logical for the era. (ie, Don't list every answer to every question.)
 
 Develop data app profiles for each adult. Make sure that they are specific and logical to the era, while telling a deeper narrative of the time and struggles/challenges.
 
