@@ -146,12 +146,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
     <td valign="top">wk 6 <p>Oct 15</p></td>    
-    <td valign="top"><strong> No Class - "It's Monday at NYU" </strong> <br> </td>
+    <td valign="top"><strong> No Class - "It's Monday at NYU" </strong> <br> <li><a href="MidTerm.md">
+    MidTerm Project: Paper Due </li> </td>
     <td valign="top">
     <ul>
     <li> <a href="constant_input_output.md">constant input/output</a></li>
-   <li><a href="MidTerm.md">
-    MidTerm Project: Paper Due </li> 
     <li> MidTerm Project:</li>
     <ul>
      <li>Questionaires</li>

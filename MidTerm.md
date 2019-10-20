@@ -60,7 +60,7 @@ You can take different approaches to the style of the paper. It does not need to
 
 
 #### Part 2:
-#### Due October 22nd
+#### Due October 21st Noon
 
 5. Explore “a day in the life” like for an adult female? Male? Children? Young Adults? Elderly?
 
@@ -68,7 +68,7 @@ Ideate on each of these. Give yourself time to think deeply. Develop a thoughtfu
  
 Then, use these questions as creative launch points to develop adult [personas](Personas.md) - across a wide range of ages and social status of adults. You must create at least 4. Answer the questions and expand on them through the persona. Keep the personas abbreviated, but specific and logical for the era. (ie, Don't list every answer to every question.)
 
-Develop data app profiles for each adult. Make sure that they are specific and logical to the era, while telling a deeper narrative of the time and struggles/challenges.
+Develop data app profiles for each adult. Make sure that they are specific and logical to the era, while telling a deeper narrative of the time and struggles/challenges. These need to be a refined designed and visually appealing.
 
 
 6. Ideate and create a mind-map of challenges and hardships. You may include what (possibly) lead to the group’s downfall. 
@@ -76,7 +76,7 @@ Develop data app profiles for each adult. Make sure that they are specific and l
 Then, include in your mind map, in a different visual treatment (font, color, shape): What created these challenges? You should be informed by your research. This must be evident.
 
 
-#### deliverables: Questionaires, 4 (minimum) personas, 4 dating profiles, High-Fi mindmaps
+#### deliverables: Questionnaires, 4 (minimum) personas, 4 dating profiles, High-Fi mindmaps
 
 
 ### Part 3  TBA
