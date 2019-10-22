@@ -79,7 +79,7 @@ Then, include in your mind map, in a different visual treatment (font, color, sh
 #### deliverables: Questionnaires, 4 (minimum) personas, 4 dating profiles, High-Fi mindmaps
 
 
-### Part 3  Prototyping
+### Part 3:  Prototyping
 
 Create a PHYSICAL device, simple machine, system or mechanism that either makes daily life easier or enables the groups survival. It may be informed by contemporary knowledge. Yet, it can only be created with materials used in that time. (For example: They won’t have AR. but they can benefit from knowledge of systems, networks, communication structures)
 
@@ -92,7 +92,7 @@ D. Iterate high-fi physical prototype
 
 Your device/machine etc must develop through the iterations. This needs to be evident.
 
-*Due October 28*: 
+#### Due October 28: 
 
 * A + B (bring to class)
 * revise, refine and iterate your personas
@@ -100,7 +100,7 @@ Your device/machine etc must develop through the iterations. This needs to be ev
 * Post on your site (by Monday noon) a list of 6 different people, organizations, leaders, politicians, celebrites from your Lost Civilization. Either write a short paragraph describing each person, that is backed up by research, or link to such research.
 * other homework, as prescribed in the [schedule](shedule.md)
 
-*Due November 4*:
+#### Due November 4:
 * Create a pitch presentation as to why your device/machine is so important as well as how it works. This should include contextual information the group/era, as well as their challenges (don’t assume that we know. Give us reason to believe). You will have 5-7 minutes to give this presentation to the class. Practice beforehand.
 
 
