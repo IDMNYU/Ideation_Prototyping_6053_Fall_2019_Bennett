@@ -23,3 +23,9 @@ Each should include the following information:
 * Noteable quotes
 
 
+Examples and Articles about Personas:
+
+* https://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/
+
+* https://www.justinmind.com/blog/user-persona-templates/
+
