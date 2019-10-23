@@ -164,15 +164,51 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
     <td valign="top">wk 7 <p>Oct 22</p></td>    
-    <td valign="top"><li> Review of Homework </li> <br> <li>Prototyping Exercises</li> </td>
+    <td valign="top"><strong> Review of Homework<br>Prototyping Exercises</strong> </td>
     <td valign="top">
       <li><a href = "MidTerm.md">Midterm</a></li>
       <li> Watch an episode of <a href = "https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2">Abstract: The Art of Design</a> and write a reflection on what you learned about their process. Be thoughtful, detailed and specific. What did you gain? How are you better informed now?</li>
    <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
     <li> Post your sketchbook work to your Process site </li>
-    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
+    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li> <li> Start Reading - Don't Read This Book </li>
 </td></tr>
-
+<tr>
+    <td valign="top">wk 8 <p>Oct 29</p></td>    
+    <td valign="top"><strong> Review of Homework<br>Prototyping Feedback</strong> </td>
+    <td valign="top">
+    <li><a href = "MidTerm.md">Midterm</a>This is the last week of this project. Check the document for your deliverables</li>
+    <li> Read the latest letters from the last co-hort and write a thoughtful reflection on your Process site. How do these letters, your midterm assessment, and feedback inform and/or change your process in this course?</li>
+    <li>Write a <a href = "letter.md">love letter or breakup letter</a> to your favorite object (DO NOT USE an object from your care package), product, or service, and post it on your process website. This needs to be something that you have a significant attachement to and something that consumes time/energy. Discuss that time + energy draw in your letter. Post to your process website.See <a href = "http://teaching.polishedsolid.com/ip/mod2/content/index.html#/?_k=ir8qme">module 2 </a> for more reference, should you need it.</li>
+   <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
+    <li> Post your sketchbook work to your Process site </li>
+    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
+</td></tr>
+<tr>
+    <td valign="top">wk 9 <p>Nov 5</p></td>    
+    <td valign="top"><strong> Presentations of Prototypes</strong> </td>
+    <td valign="top">
+      <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
+      <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
+    <li> Create each of the following with regard to the final project, and post to your process site under the heading/tag/page for your final project: Future:
+        <ul>
+            <li> clear visual documentation of the Card Sorting exercise on your process site, along with a written reflection on 3 outcomes that were generated as possible stories + messages for the final.
+            </li>
+            <li>
+                Generate at least 2 Mind Maps, further exploring 2 of the possible stories + messages. Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
+            </li>
+            <li>
+                Take those developments from your Mind Mapping and generate a visual concept map, further exploring the relationships and meanings behind these concepts. This should be larger, explorative and thoughtful.
+                Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
+            </li>
+            <li> Going further for extra credit: Develop a 150 Word List, further exploring your developments and ideas.
+            </li>
+            <li>
+                Create a post that is a written statement regarding what your Future project is going to be about. What is the story? What is the message? What are some possible  objects?
+            </li>
+            </ul>
+        </li>
+    </td>
+  </tr>
 </table>
 
 
