@@ -162,8 +162,16 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul> <li><a href ="Time_Management_System.md">Time Management System</a></li></ul>
     </td>
 </tr>
-
-
+<tr>
+    <td valign="top">wk 7 <p>Oct 22</p></td>    
+    <td valign="top"><li> Review of Homework </li> <br> <li>Prototyping Exercises</li> </td>
+    <td valign="top">
+      <li><a href = "MidTerm.md">Midterm</a></li>
+      <li> Watch an episode of <a href = "https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2">Abstract: The Art of Design</a> and write a reflection on what you learned about their process. Be thoughtful, detailed and specific. What did you gain? How are you better informed now?</li>
+   <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
+    <li> Post your sketchbook work to your Process site </li>
+    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li>
+</td></tr>
 
 </table>
 
