@@ -101,6 +101,7 @@ Your device/machine etc must develop through the iterations. This needs to be ev
 * other homework, as prescribed in the [schedule](shedule.md)
 
 #### Due November 4:
+* C + D (bring to class & Post images to your site). There should be a couple iterations evident, with development differences between them.
 * Create a pitch presentation as to why your device/machine is so important as well as how it works. This should include contextual information the group/era, as well as their challenges (don’t assume that we know. Give us reason to believe). You will have 5-7 minutes to give this presentation to the class. Practice beforehand.
 
 
