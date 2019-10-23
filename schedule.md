@@ -189,7 +189,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
       <li> <a href = "http://teaching.polishedsolid.com/ip/mod8/content/index.html#/?_k=6m31cj"> Read Module 8 </a> </li>
       <li><strong> Phase 1: Discovery / Inspiration / Process: </strong><a href="future.md">Future Dystopia / Utopia Project. Post evidence of the following to your Process site:</a></li> 
-    <li> Create each of the following with regard to the final project, and post to your process site under the heading/tag/page for your final project: Future:
+    <li> Create each of the following with regard to the final project, and post to your process site under your Future tab:
         <ul>
             <li> clear visual documentation of the Card Sorting exercise on your process site, along with a written reflection on 3 outcomes that were generated as possible stories + messages for the final.
             </li>
