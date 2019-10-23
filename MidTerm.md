@@ -85,10 +85,10 @@ Create a PHYSICAL device, simple machine, system or mechanism that either makes 
 
 What does it look like? How does it function? What is it a remix of? What is it informed by? What are its influences?
 
-A. Create paper prototype
-B. Create low-fi physical prototype
-C. Create high-fi physical prototype
-D. Iterate high-fi physical prototype
+A. Create paper prototype <br>
+B. Create low-fi physical prototype <br>
+C. Create high-fi physical prototype <br>
+D. Iterate high-fi physical prototype <br>
 
 Your device/machine etc must develop through the iterations. This needs to be evident.
 
