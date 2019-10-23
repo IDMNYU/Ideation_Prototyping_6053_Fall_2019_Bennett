@@ -207,6 +207,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             </li>
             </ul>
         </li>
+        <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
+    <li> Post your sketchbook work to your Process site </li>
+    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
     </td>
   </tr>
 </table>
