@@ -81,6 +81,8 @@ Then, include in your mind map, in a different visual treatment (font, color, sh
 
 ### Part 3:  Prototyping
 
+Read [module 9's section "Prototyping"](http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt")
+
 Create a PHYSICAL device, simple machine, system, mechanism, service, company/organization/group that either makes daily life easier or enables the groups survival. It may be informed by contemporary knowledge. Yet, it can only be created with materials used in that time. (For example: They won’t have AR. but they can benefit from knowledge of systems, networks, communication structures)
 
 What does it look like? How does it function? What is it a remix of? What is it informed by? What are its influences?
@@ -94,6 +96,8 @@ Your device/machine etc must develop through the iterations. This needs to be ev
 
 #### Due October 28: 
 
+* Post all documents from Tuesday's exercises to your site with reference and descriptive information
+* Post the outcome of small group Design Challenge
 * A + B (bring to class & Post images to your site)
 * revise, refine and iterate your personas
 * revise + iterate your mindmap of the challenges of your lost civilization + people. This is to be a high fidelity mindmap document. Then, include in your mind map, in a different visual treatment (font, color, shape): What created these challenges? You should be informed by your research. This must be evident.
