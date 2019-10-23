@@ -94,10 +94,10 @@ Your device/machine etc must develop through the iterations. This needs to be ev
 
 #### Due October 28: 
 
-* A + B (bring to class)
+* A + B (bring to class & Post images to your site)
 * revise, refine and iterate your personas
 * revise + iterate your mindmap of the challenges of your lost civilization + people. This is to be a high fidelity mindmap document. Then, include in your mind map, in a different visual treatment (font, color, shape): What created these challenges? You should be informed by your research. This must be evident.
-* Post on your site (by Monday noon) a list of 6 different people, organizations, leaders, politicians, celebrites from your Lost Civilization. Either write a short paragraph describing each person, that is backed up by research, or link to such research.
+* Post on your site (by Monday noon) a list of 6 different people, organizations, leaders, politicians, celebrites from your Lost Civilization. Either write a short paragraph describing each person that is backed up by research, or link to such research. These are short, descriptive blurbs.
 * other homework, as prescribed in the [schedule](shedule.md)
 
 #### Due November 4:
