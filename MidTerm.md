@@ -81,7 +81,7 @@ Then, include in your mind map, in a different visual treatment (font, color, sh
 
 ### Part 3:  Prototyping
 
-Create a PHYSICAL device, simple machine, system or mechanism that either makes daily life easier or enables the groups survival. It may be informed by contemporary knowledge. Yet, it can only be created with materials used in that time. (For example: They won’t have AR. but they can benefit from knowledge of systems, networks, communication structures)
+Create a PHYSICAL device, simple machine, system, mechanism, service, company/organization/group that either makes daily life easier or enables the groups survival. It may be informed by contemporary knowledge. Yet, it can only be created with materials used in that time. (For example: They won’t have AR. but they can benefit from knowledge of systems, networks, communication structures)
 
 What does it look like? How does it function? What is it a remix of? What is it informed by? What are its influences?
 
