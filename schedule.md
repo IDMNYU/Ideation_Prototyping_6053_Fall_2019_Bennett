@@ -166,6 +166,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 7 <p>Oct 22</p></td>    
     <td valign="top"><strong> Review of Homework<br>Prototyping Exercises</strong> </td>
     <td valign="top">
+      <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> ONLY THE SECTION ON PROTOTYPING</li>
       <li><a href = "MidTerm.md">Midterm</a></li>
       <li> Watch an episode of <a href = "https://www.netflix.com/browse?jbv=80057883&jbp=0&jbr=2">Abstract: The Art of Design</a> and write a reflection on what you learned about their process. Be thoughtful, detailed and specific. What did you gain? How are you better informed now?</li>
    <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
