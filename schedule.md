@@ -195,13 +195,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> clear visual documentation of the Card Sorting exercise on your process site, along with a written reflection on 3 outcomes that were generated as possible stories + messages for the final.
             </li>
             <li>
-                Generate at least 2 Mind Maps, further exploring 2 of the possible stories + messages. Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
+                Generate at 2 Mind Maps, further exploring 2 of the possible stories + messages. Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
             </li>
             <li>
-                Take those developments from your Mind Mapping and generate a visual concept map, further exploring the relationships and meanings behind these concepts. This should be larger, explorative and thoughtful.
+                Take those developments from your Mind Mapping and generate one visual concept map, further exploring the relationships and meanings behind these concepts. This should be larger, explorative and thoughtful.
                 Post the visuals to your blog along with a written reflection about what was generated and how things have developed.
-            </li>
-            <li> Going further for extra credit: Develop a 150 Word List, further exploring your developments and ideas.
             </li>
             <li>
                 Create a post that is a written statement regarding what your Future project is going to be about. What is the story? What is the message? What are some possible  objects?
@@ -212,7 +210,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>(if applicable this week) <a href="constant_input_output.md">constant input/output</a></li>
         <li> Read the midterm letters from the last cohort and post a reflection on your process site.</li>
     <li> Post your sketchbook work to your Process site </li>
-    <li><a href ="Time_Management_System.md">Time Management System</a> and reflection</li><li> Read - Don't Read This Book </li>
+    <li> Read - Don't Read This Book </li>
     </td>
   </tr>
 
