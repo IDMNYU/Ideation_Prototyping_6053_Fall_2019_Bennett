@@ -213,8 +213,35 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Read - Don't Read This Book </li>
     </td>
   </tr>
-
-
+<tr>
+    <td valign="top">wk 10<p>Nov 12</p></td> 
+    <td valign="top">Review Homework</td>  
+    <td valign="top">  
+    <ul>    
+     <li> <a href = "http://teaching.polishedsolid.com/ip/mod9/content/index.html#/?_k=dnj7pt"> Read Module 9 </a> </li>
+     <li>Develop the world that your future is.<strong> What is your future like? </strong>(pick at least 8 to incorporate into your world and write a post on your blog detailing this):
+      <ul>  <li>government</li>
+  <li>living conditions</li>
+  <li>health</li>
+  <li> food </li>
+  <li>economy</li>
+  <li>climate</li>
+  <li>shared values</li>
+ <li>work conditions</li>
+  <li> communication</li>
+  <li>information</li>
+  <li>learning</li>
+  <li>transportation</li>
+ </ul>
+     <li>Identify Secondary topics, in addtion to your Primary topics for your Future Narrative. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 5 sources minimum. </li>
+     <li> <a href = "narrative_timeline.md">Create a DRAFT timeline for your Future Project, beginning with the present through to your future. <strong>How did this world come into being?</strong> Evidence of your research should be present. This must be clear and readable on your blog.</a></li>
+     <li> Explore different ideas that your prototype could be. Take 10 minutes and sketch something that could work. Repeat this process 4 times. You should have 4 sketches total.</li>
+     <li> Create several paper prototypes (ie, several sketches), which show the development of your chosen prototype and details of what it is. These sketches should show a development progression of your idea</li>
+   <li>(if applicable this week) <a href="constant_input_output.md">constant input</a></li> 
+    <li> Read - Don't Read This Book </li>
+<li> Post your sketchbook work to your Process site </li></ul>
+    </td>
+</tr>
 </table>
 
 
