@@ -233,7 +233,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
   <li>learning</li>
   <li>transportation</li>
  </ul>
-     <li>Identify Secondary topics, in addtion to your Primary topics for your Future Narrative. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 5 sources minimum. </li>
+     <li>Identify Secondary topics, in addtion to your Primary topics for your Future Narrative. Research (and be diverse with your research) these topics. What are some analogous times in history? What are some related discoveries in science, technology, medicine, etc? You can pull from these to inform your story. Begin an annotated bibliography, annotating what you have specifically gained from this source. 4 sources minimum. </li>
      <li> <a href = "narrative_timeline.md">Create a DRAFT timeline for your Future Project, beginning with the present through to your future. <strong>How did this world come into being?</strong> Evidence of your research should be present. This must be clear and readable on your blog.</a></li>
      <li> Explore different ideas that your prototype could be. Take 10 minutes and sketch something that could work. Repeat this process 4 times. You should have 4 sketches total.</li>
      <li> Create several paper prototypes (ie, several sketches), which show the development of your chosen prototype and details of what it is. These sketches should show a development progression of your idea</li>
