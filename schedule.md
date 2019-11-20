@@ -250,7 +250,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
       <li>An additional 4 sources for your annotated Bibliography</li>
       <li> An iteration of your timeline, incorporating your seconday research resources. You must also include the events in your future, that lead to your future. This is built off of your research and secondary topics. If your timeline is not polished, make this version more polished in it visual communication than previous versions.</li>
-      <li>A phyiscal low fidelity prototype that is dimensional.</li></ul>
+      <li>A physical low fidelity prototype that is dimensional.</li></ul>
       <li>With reference to the final delivery method: Do a brainstorm thinking about all the different delivery methods that this story could be communicated. Think wide, far, and deep.</li>
       <li> Begin developing the final delivery method. Have evidence to physically show us in class next week. </li>
       <li>Prepare a 3-4 minute presentation discussing what you did with your constant input/output. This is your opportunity to convey what you have been up to, what you gained/learned. </li>
