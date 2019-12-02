@@ -269,7 +269,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <li> An iteration of your timeline, incorporating your seconday research resources. You must also include the events in your future, that lead to your future. This is built off of your research and secondary topics. If your timeline is not polished, make this version more polished in it visual communication than previous versions.</li>
       <li>A second physical prototype that is dimensional. This should be a refined iteration of your most recent prototype.</li></ul>
       <li>If you did not do a mindmap of different possible delivery methods, do so. The center of the mind map should be your story. How it's deliveried should be explored through this brainstorm. Be platform agnostic. Be divergent.</li>
-      <li> Develop a storyboard of the content that you will delivery during the delivery method. This is independent from your delivery method.</li>
+      <li> Develop a <a href = "https://github.com/IDMNYU/Ideation_Prototyping_6053_Fall_2019_Bennett/tree/master/storyboardTemplates" >storyboard of the content that you will delivery during the delivery method. </a> This is independent from your delivery method.</li>
       <li> Develop a draft of your Delivery Method. We will present these in class next week. This is a trial run of your final presentation. </li>
     <li> Read - Don't Read This Book </li>
 <li> Post your sketchbook work to your Process site </li>
