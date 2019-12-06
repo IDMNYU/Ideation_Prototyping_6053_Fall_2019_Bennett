@@ -275,6 +275,26 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <li> Post your sketchbook work to your Process site </li>
     </td>
 </tr>
+
+<tr>
+    <td valign="top">wk 13<p>Dec 3</p></td> 
+    <td valign="top">Review Homework</td>  
+    <td valign="top"> 
+      <li> Idenitify new sources, as needed. Do not omit new sources, nor further iterations and developments on your timelines</li>
+      <li> Develop, practice and finalize the Delivery Method of your world and story. This presentation must fit within 4 minutes. The Message Back should be embedded or evident within the presentation, as well as whether this is a utopia or dystopia. Refer the <a href = "future.md">project brief </a>to ensure you are on track.</li>
+     <li> Post your final iteration of your object. Remember that at least one of these iterations must be physical. As well, development strides should be evident between iterations.</li>
+     <li> Post a culuminative ANNOTATED BIBLIOGRAPHY of sources used from the project. Include new sources from this past week.</li>
+     <li> Post a refined high-fidelity timeline, including new developments </li>
+    <li> Post the "take aways" from the book:Don't Read This Book </li>
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 14<p>December 10</p></td> 
+    <td valign="top">Final Future Presentations</td>  
+    <td valign="top"> 
+     <li>Submit the <a href = "end-of-semester-deliverables">End of Semester Deliverables by NOON on December 16th. This work is graded. Late work will not be accepted. </li> 
+    </td>
+</tr>
 </table>
 
 
