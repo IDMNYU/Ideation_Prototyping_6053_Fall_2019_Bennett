@@ -8,7 +8,7 @@
 ## It is your responsibility to turn in the following items in the specified manner according to the specified date. No reminders will be sent. Nothing will be accepted after the deadline. This is a hard deadline. These documents are part of your grade.
 
 <ul>
-<li>Future Dystopia Utopia Documentation (which is different for every student). The following is <strong> due May 16th by NOON: </strong> <br> 
+<li>Future Dystopia Utopia Documentation (which is different for every student). The following is <strong> due December 16th by NOON: </strong> <br> 
 	<ul> 
 		<li> On your Process Site, create a navigation tab which will load ALL of the process that you have undertaken for the <a href="future.md">Future project</a>, with context/summary/reflection. Do not just post pictures alone.</li>
 		<li> Within that should also be your final delivery medium, with the message to the past </li>
